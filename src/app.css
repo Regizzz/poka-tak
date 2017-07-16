@@ -1,0 +1,36 @@
+html {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+	background-color: #6f5499;
+	text-align: center;
+	height: 100%;
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text {
+  font-size: 100px;
+}
+
+.text-small {
+  font-size: 14px;
+  display: block;
+  width: 400px;
+  margin: auto;
+}
+
+.jp-gui {
+  margin-left: 35%;
+  border-radius: 5px;
+}
+
+.jp-title-container {
+  color: #6f5499;
+}
